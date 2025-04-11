@@ -1,5 +1,3 @@
 plotly
 streamlit
 pandas
-plotly
-sqlite3 ; this is part of standard lib, no need to add unless used specially
