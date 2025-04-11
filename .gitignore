@@ -9,8 +9,6 @@ venv/
 .envrc
 .venv/
 
-# SQLite DB
-db/*.db
 
 # VS Code settings
 .vscode/
