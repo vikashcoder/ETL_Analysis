@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.envrc
+.venv/
+
+# SQLite DB
+db/*.db
+
+# VS Code settings
+.vscode/
+
+# Data cache or backups
+*.log
+*.bak
+*.tmp
+*.swp
+
+# Streamlit cache
+.streamlit/config.toml
+.streamlit/*.json
+.streamlit/*.lock
+.cache/
+
+# Jupyter/IPython (in case you ever use notebooks)
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+desktop.ini
